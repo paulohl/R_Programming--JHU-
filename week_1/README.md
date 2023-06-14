@@ -1,4 +1,4 @@
-#Practical R Exercises in swirl Part 1
+# Practical R Exercises in swirl Part 1
 During this course we'll be using the swirl software package for R in order to illustrate some key concepts. The swirl package turns the R console into an interactive learning environment. Using swirl will also give you the opportunity to be completely immersed in an authentic R programming environment. In this programming assignment, you'll have the opportunity to practice some key concepts from this course.
 
 ### 0. Install R
