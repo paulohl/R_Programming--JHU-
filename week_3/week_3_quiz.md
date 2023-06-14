@@ -1,7 +1,6 @@
 # Week 3 Quiz
 
-
-Quiz30 minutes • 30 min
+Quiz • 30 min
 Submit your assignment
 Due November 21, 2:59 AM ESTNov 21, 2:59 AM EST
 To Pass 80% or higher
